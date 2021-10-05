@@ -29,6 +29,66 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 321,
+      "category": "pro Gaming",
+      "title": "Gamers for Gamers",
+      "description": "You thought you were good ? Well..... no.",
+      "location": "LA",
+      "date": "January 28, 2022",
+      "time": "23:00",
+      "organizer": "XxSnipingxX"
+    },
+    {
+      "id": 255,
+      "category": "Fairy",
+      "title": "Fairy Town",
+      "description": "Weeb Fairy shit.",
+      "location": "Flora City",
+      "date": "October 18, 2022",
+      "time": "02:00",
+      "organizer": "Magic Princess"
+    },
+    {
+      "id": 444,
+      "category": "sustainability",
+      "title": "WYD ?",
+      "description": "Wtf i'm lost in spiderverse lol",
+      "location": "WTF",
+      "date": "August 02, 2022",
+      "time": "16:00",
+      "organizer": "Spiderman"
+    },
+    {
+      "id": 999,
+      "category": "Satanic Welfare",
+      "title": "Doubting Jesus ? Why Satan is more loyal.",
+      "description": "Join Satan to descover how pain is gain.",
+      "location": "Hell",
+      "date": "June 10, 2022",
+      "time": "6:66",
+      "organizer": "Phillipe"
+    },
+    {
+      "id": 728,
+      "category": "Cool",
+      "title": "How to be cool ?",
+      "description": "Be cool.",
+      "location": "Cool.",
+      "date": "December 23, 2022",
+      "time": "00:00",
+      "organizer": "Coolest man"
+    },
+    {
+      "id": 615,
+      "category": "FOOD",
+      "title": "We are HUNGRY.",
+      "description": "Let's find a McDonald",
+      "location": "Rosny 2",
+      "date": "May 6, 2022",
+      "time": "03:00",
+      "organizer": "Johan Gourdin"
     }
   ]
 }
