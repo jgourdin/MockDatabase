@@ -127,17 +127,17 @@
     {
       "id": 1,
       "title" : "Travaux Pratique AVR",
-      "completed" : 10
+      "completed" : 20
     },
     {
       "id": 2,
       "title" : "Travaux Pratique CAO",
-      "completed" : 10
+      "completed" : 20
     },
     {
       "id": 3,
       "title" : "Travaux Pratique Soudure",
-      "completed" : 4
+      "completed" : 14
     },
     {
       "id": 4,
