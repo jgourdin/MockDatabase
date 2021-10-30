@@ -30,5 +30,37 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ],
+  "courses": [
+    {
+      "id":1,
+      "name": "Demagnetiseur",
+      "voteUp" : 0,
+      "voteDown" : 1
+    },
+    {
+      "id":2,
+      "name": "Clef a Molette",
+      "voteUp" : 1,
+      "voteDown" : 1
+    },
+    {
+      "id":3,
+      "name": "Pied a coulisse",
+      "voteUp" : 5,
+      "voteDown" : 1
+    },
+    {
+      "id":4,
+      "name": "Microscope",
+      "voteUp" : 10,
+      "voteDown" : 0
+    },    
+    {
+      "id":5,
+      "name": "Alim Jack",
+      "voteUp" : 4,
+      "voteDown" : 4
+    }
   ]
 }
