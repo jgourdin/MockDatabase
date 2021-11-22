@@ -91,6 +91,68 @@
       "organizer": "Johan Gourdin"
     }
   ],
+  "piscine" : [
+    {
+      "id":0,
+      "name": "TP PROG - 01",
+      "description" : ""
+    },
+    {
+      "id":1,
+      "name": "TP PROG - 02",
+      "description" : ""
+    },
+    {
+      "id":2,
+      "name": "TP PROG - 03",
+      "description" : ""
+    },
+    {
+      "id":3,
+      "name": "Rush00",
+      "description" : ""
+    },
+    {
+      "id":4,
+      "name": "TP Soudure - 00",
+      "description" : ""
+    },
+    {
+      "id":5,
+      "name": "TP Soudure - 01",
+      "description" : ""
+    },
+    {
+      "id":6,
+      "name": "TP Mesure - 00",
+      "description" : ""
+    },
+    {
+      "id":7,
+      "name": "Rush 01",
+      "description" : ""
+    },
+    {
+      "id":8,
+      "name": "TP CAO - 00",
+      "description" : ""
+    },
+    {
+      "id":9,
+      "name": "TP CAO - 01",
+      "description" : ""
+    },
+    {
+      "id":10,
+      "name": "TP CAO - 02",
+      "description" : ""
+    },
+    {
+      "id":11,
+      "name": "Rush 02",
+      "description" : ""
+    }
+  ],
   "courses": [
     {
       "id":1,
@@ -187,5 +249,19 @@
       "description" : "Erector",
       "transaction" : "+5€"
     }
-  ]
+  ],
+  "fragmentShader": `
+  precision highp float;
+
+  uniform vec2 u_resolution;
+  uniform vec2 u_mouse;
+  uniform float u_time;
+
+  void main() {
+    // gl_FragColor is a special variable a fragment shader
+    // is responsible for setting
+ 
+     gl_FragColor = vec4(fract((gl_FragCoord.xy - u_mouse) / u_resolution), fract(u_time), 1);
+  }
+`
 }
