@@ -255,43 +255,5 @@
       "title" : "Prototypage",
       "completed" : 0
     }
-  ],
-  "transactions": [
-    {
-      "id" : 1,
-      "category" : "Vente Goodies",
-      "description" : "Erector",
-      "transaction" : "+5€"
-    },
-    {
-      "id" : 2,
-      "category" : "Vente Goodies",
-      "description" : "Erector",
-      "transaction" : "+5€"
-    },
-    {
-      "id" : 3,
-      "category" : "Vente Goodies",
-      "description" : "CharlyFlex",
-      "transaction" : "+7€"
-    },
-    {
-      "id" : 4,
-      "category" : "Depense Materiel",
-      "description" : "Sabre Laser",
-      "transaction" : "-1500€"
-    },
-    {
-      "id" : 5,
-      "category" : "Depense Materiel",
-      "description" : "Voiture",
-      "transaction" : "-100€"
-    },
-    {
-      "id" : 6,
-      "category" : "Vente Goodies",
-      "description" : "Erector",
-      "transaction" : "+5€"
-    }
   ]
 }
