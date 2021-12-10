@@ -1,4 +1,48 @@
 {
+  "products": [
+    {
+      "id": 0,
+      "name": "coffee Prenium",
+      "price": 40,
+      "stock": 72
+    },
+    {
+      "id": 1,
+      "name": "coffee normal",
+      "price": 20,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "coffee magic",
+      "price": 78,
+      "stock": 4
+    },
+    {
+      "id": 3,
+      "name": "coffee grain",
+      "price": 47,
+      "stock": 0
+    },
+    {
+      "id": 4,
+      "name": "coffee sunday",
+      "price": 25,
+      "stock": 74
+    },
+    {
+      "id": 5,
+      "name": "coffee smiling",
+      "price": 8,
+      "stock": 75
+    },
+    {
+      "id": 6,
+      "name": "coffee waterless",
+      "price": 69,
+      "stock": 255
+    }
+  ],
   "events": [
     {
       "id": 123,
